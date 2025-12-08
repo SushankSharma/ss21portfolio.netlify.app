@@ -107,10 +107,7 @@ const Menu = ({ menuOpen, toggleMenu }) => {
                 </NavListItem>
               ))}
           </NavList>
-          <ResumeLink
-            href="https://drive.google.com/file/d/1nKRfTT25TSQutHNS5p4srQQ4b35OGs1Q/view?usp=drive_link"
-            target="_blank"
-            rel="nofollow noopener noreferrer">
+          <ResumeLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
             Resume
           </ResumeLink>
         </NavLinks>
