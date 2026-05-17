@@ -1,12 +1,11 @@
-import React from 'react';
-import { graphql, Link } from 'gatsby';
-import { Helmet } from 'react-helmet';
-import kebabCase from 'lodash/kebabCase';
-import PropTypes from 'prop-types';
 import { Layout } from '@components';
 import { IconZap } from '@components/icons';
+import { Main, media, mixins, theme } from '@styles';
+import { graphql, Link } from 'gatsby';
+import kebabCase from 'lodash/kebabCase';
+import PropTypes from 'prop-types';
+import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
-import { theme, mixins, media, Main } from '@styles';
 const { colors, fontSizes, fonts } = theme;
 
 const StyledMainContainer = styled(Main)`

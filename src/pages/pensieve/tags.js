@@ -1,11 +1,10 @@
-import React from 'react';
-import { Helmet } from 'react-helmet';
+import { Layout } from '@components';
+import { Main, mixins, theme } from '@styles';
 import { Link, graphql } from 'gatsby';
 import kebabCase from 'lodash/kebabCase';
 import PropTypes from 'prop-types';
-import { Layout } from '@components';
+import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
-import { theme, mixins, Main } from '@styles';
 const { colors, fontSizes, fonts } = theme;
 
 const StyledTagsContainer = styled(Main)`
