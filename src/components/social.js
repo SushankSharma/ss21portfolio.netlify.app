@@ -1,10 +1,9 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import { socialMedia } from '@config';
 import { Side } from '@components';
 import { FormattedIcon } from '@components/icons';
-import styled from 'styled-components';
+import { socialMedia } from '@config';
 import { theme } from '@styles';
+import PropTypes from 'prop-types';
+import styled from 'styled-components';
 const { colors } = theme;
 
 const StyledList = styled.ul`
