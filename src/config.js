@@ -1,15 +1,15 @@
 module.exports = {
-  siteTitle: 'Sushank Sharma | Embedded Systems Post-Graduate Student | Software Developer',
+  siteTitle: 'Sushank Sharma | Technical Business Analyst • Aviation Operations • ITSM & Release Governance',
   siteDescription:
-    'Sushank Sharma is a Embedded Systems Post-Graduate Student at MAHE, Manipal University, Aspiring Coder.',
+    'Sushank Sharma is an Operations-focused Technical Business Analyst specializing in aviation workflows, regulatory compliance (DGCA), and enterprise IT Service Management (ITSM).',
   siteKeywords:
-    'Sushank Sharma, Sushank, Sharma, Ss21, software developer, software engineer, cloud engineer, web developer, bangalore, Embitel Technologies, maniapl university, MAHE, bangalore',
+    'Sushank Sharma, Technical Business Analyst, Aviation Operations, ITSM, Release Governance, DGCA Compliance, Root Cause Analysis, UAT, SQL, Power BI, Python, Gurugram, InterGlobe Aviation, IndiGo',
   siteUrl: 'https://ss21portfolio.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-JBNHLZYHH7',
   googleVerification: 't5AYejyrzomyxjWzJqtOmR9oRafJQ3F4oBnLQLpNweI',
-  name: 'Sushank-Sharma',
-  location: 'Bangalore, Bharat',
+  name: 'Sushank Sharma',
+  location: 'Gurugram, India',
   email: 'sushanks07@gmail.com',
   github: 'https://github.com/SushankSharma',
   socialMedia: [
@@ -19,7 +19,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sushanksharma/',
+      url: 'https://www.linkedin.com/in/sushank-sharma-itba',
     },
   ],
 
@@ -45,8 +45,8 @@ module.exports = {
   navHeight: 100,
 
   colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
+    green: '#005EB8',
+    navy: '#00205B',
     darkNavy: '#020c1b',
   },
 
