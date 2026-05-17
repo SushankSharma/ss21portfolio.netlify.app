@@ -1,19 +1,15 @@
 ---
-date: '2024-01-15'
-title: 'TMS Training Insights Dashboard'
+date: '2024-04-01'
+title: 'TMS-AIMS Operational & Analytics Dashboard'
 github: 'https://github.com/SushankSharma/tms-training-insights-dashboard'
 external: ''
 tech:
   - Python
   - Streamlit
-  - Pandas
-  - Data Visualization
   - REST APIs
-  - Analytics
-  - Dashboard
+  - Data Validation
   - KPI Tracking
-company: ''
 showInProjects: true
 ---
 
-An interactive Python Streamlit dashboard that automates API-based analytics for training management systems, enabling real-time KPI tracking and reducing manual reporting efforts through automated data processing and visualization.
+Developed a Python-based operational monitoring utility integrating live REST API endpoints to auto-generate flight operations KPIs. Enhanced to support Course and Component Mapping, improving operational visibility, validation tracking, and reporting efficiency for aviation training workflows.

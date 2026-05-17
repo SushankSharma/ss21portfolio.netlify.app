@@ -1,10 +1,12 @@
 ---
-title: 'Hi, My name is'
-name: 'Sushank Sharma'
-subtitle: 'Tech Enthusiast, Thriving on daily Challenges!'
+title: 'Hi, my name is'
+name: 'Sushank Sharma.'
+subtitle: 'I bridge operational friction and technical delivery.'
 buttonText: 'Contact Me'
 ---
 
-I graduated with a Master's in Embedded Systems from [Manipal Academy of Higher Education](https://manipal.edu/mu.html), my journey spans Full-Stack Development, from mastering [Java](#), [RDBMS](#), [SQL/NoSQL](#) databases software systems, [JSP](#), [Servlets](#), [Spring-MVC](#), to navigating the Cloud with [AWS](#).
+I am a Technical Business Analyst specializing in aviation workflows, regulatory compliance (DGCA), and enterprise IT Service Management (ITSM).
 
-Beyond the keyboard, you might catch me sketching tactical strategies for my clan [#98R99QYQJ](https://supercell.com/en/games/clashofclans/), because every good coder needs a side gig battling barbarians!
+Currently supporting Flight Operations Technology for **InterGlobe Aviation (IndiGo)** via AEPL, I translate complex process friction into structured, deployable solutions. I govern release readiness, coordinate User Acceptance Testing (UAT) for systems impacting 6,000+ operational users, and conduct Root Cause Analysis (RCA) to stabilize production environments.
+
+Beyond enterprise release cycles, you might catch me sketching tactical strategies for my clan [#98R99QYQJ](https://supercell.com/en/games/clashofclans/)—because whether I am managing production incidents or base defenses, I thrive on structural problem-solving.

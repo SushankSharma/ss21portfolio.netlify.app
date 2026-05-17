@@ -1,12 +1,14 @@
 ---
 date: '2024-03-20'
-title: 'Technical Business Analyst | Production Technical Support Engineer'
-company: 'AEPL | InterGlobe Aviation (IndiGo) | Gurugram | On-Site'
-range: 'Jul 2024 - Present'
-url: 'https://www.goindigo.in/about-us.html?linkNav=About%20us%7CCOMPANY%7CFooter'
+title: 'Business Analyst | Flight Operations Technology'
+company: 'Anugraha Exceed Pvt. Ltd. (Client: IndiGo)'
+location: 'Gurugram, India'
+range: 'Mar 2024 - Present'
+url: 'https://www.goindigo.in/'
 ---
 
-- Spearheaded digital transformation: Achieved 100% Line + 90% SIM Training adoption on DGCA-compliant TMS iGrade; managed end-to-end curriculum lifecycle for 6,000+ flight deck crew—enhancing operational efficiency and regulatory compliance.
-- Led cross-functional collaboration as sole vendor SPOC: Conducted root cause analysis, resolved production issues with 99% uptime, and delivered LearnOn Ground Training LMS module.
-- Drove process optimisation: Translated business requirements into BRDs, User stories, and Technical Flowcharts; facilitated stakeholder workshops—reduced ambiguity by 20% and accelerated SDLC timelines.
-- Engineered data-driven solution: Built Python Streamlit dashboard automating API-based analytics for 1000+ sessions—reduced manual reporting by 90%, enabling real-time KPI tracking for end-to-end Curriculum Mapping based on AIMS data.
+- Facilitated requirement workflows and end-to-end curriculum lifecycles for DGCA-compliant pilot certification modules (TMS iGrade), supporting operational training systems for 6,000+ flight deck crew.
+- Coordinated User Acceptance Testing (UAT) and release readiness activities, aligning cross-functional stakeholders and engineering teams to deliver enterprise systems, including the LearnOn Ground Training LMS module.
+- Conducted Root Cause Analysis (RCA) on recurring production incidents, managing defect tracking and resolving system bottlenecks to ensure high operational stability and reduce repeated escalations.
+- Translated operational requirements into structured BRDs, user stories, and technical flowcharts, standardizing validation workflows to reduce ambiguity and accelerate SDLC timelines.
+- Developed a Python-based (Streamlit) operational dashboard utilizing REST APIs to automate KPI tracking and end-to-end curriculum mapping based on AIMS data, significantly reducing manual reporting dependencies.
